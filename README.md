@@ -1,4 +1,4 @@
-# prune-image-captioning
+# Image Captioning with Sparse Recurrent Neural Network
 
 
 ## Description
