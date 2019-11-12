@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jiahuei/Documents/1_TF_files/prune/mscoco_v2/word_w256_LSTM_r512_xu_REG_1.0e+02_init_5.0_L1_wg_20.0_ann_sps_0.97_constLR/run_01_sparse___11-12_16-17/decoder-531325"
+all_model_checkpoint_paths: "/home/jiahuei/Documents/1_TF_files/prune/mscoco_v2/word_w256_LSTM_r512_xu_REG_1.0e+02_init_5.0_L1_wg_20.0_ann_sps_0.97_constLR/run_01_sparse___11-12_16-17/decoder-531325"

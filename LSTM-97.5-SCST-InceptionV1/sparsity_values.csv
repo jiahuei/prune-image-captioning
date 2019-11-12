@@ -1,0 +1,3 @@
+Global step,Total sparsity,Total NNZ,rnn_decoder/rnn_initial_state/kernel,rnn_decoder/memory_layer/kernel,rnn_decoder/value_layer/kernel,rnn_decoder/output_projection/kernel,decoder/rnn_decoder/embedding_map,multi_head_attention_wrapper_v3/basic_lstm_cell/kernel,MultiHeadAdd/query_layer/kernel,multi_head_attention_wrapper_v3/MultiHeadAdd/attention_v
+113287,0.0000000,11911168,0.0000000,0.0000000,0.0000000,0.0000000,0.0000000,0.0000000,0.0000000,0.0000000
+113287,0.9749992,297789,0.9695969,0.9902156,0.9788607,0.9739502,0.9867179,0.9621727,0.9899025,0.7539062
